@@ -1,6 +1,6 @@
 cask "sillog" do
-  version "0.1.0,68"
-  sha256 "2514ffd61c858dab3cb7183225083d0212a539d596bb6c4b52e432db99b917ff"
+  version "0.1.0,70"
+  sha256 "b8c1a1e978844807222d6d9bd25b5a0f2f9340f41e800c3b37cb1318b59728a1"
 
   url "https://github.com/sillog-admin/SILLOG/releases/download/v#{version.csv.first}-build.#{version.csv.second}/SILLOG.dmg"
   name "SILLOG"
